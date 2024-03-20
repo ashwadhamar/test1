@@ -1,0 +1,29 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplify8db9e93f8a4e4-staging-162724-authRole",
+      "UnauthRoleArn": "arn:aws:iam::654654192212:role/amplify-amplify8db9e93f8a4e4-staging-162724-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::654654192212:role/amplify-amplify8db9e93f8a4e4-staging-162724-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-amplify8db9e93f8a4e4-staging-162724-deployment",
+      "UnauthRoleName": "amplify-amplify8db9e93f8a4e4-staging-162724-unauthRole",
+      "StackName": "amplify-amplify8db9e93f8a4e4-staging-162724",
+      "StackId": "arn:aws:cloudformation:us-east-1:654654192212:stack/amplify-amplify8db9e93f8a4e4-staging-162724/bc5a7a20-e6d6-11ee-9e32-12b122e55307",
+      "AmplifyAppId": "d1t0wu1xf4eyns"
+    },
+    "categories": {
+      "function": {
+        "install": {
+          "deploymentBucketName": "amplify-amplify8db9e93f8a4e4-staging-162724-deployment",
+          "s3Key": "amplify-builds/install-4b323965534946647374-build.zip"
+        }
+      },
+      "api": {
+        "Installtion": {}
+      },
+      "auth": {
+        "test1e1472021": {}
+      }
+    }
+  }
+}
