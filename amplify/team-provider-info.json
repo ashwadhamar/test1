@@ -12,17 +12,14 @@
       "AmplifyAppId": "d1t0wu1xf4eyns"
     },
     "categories": {
+      "auth": {
+        "test1e1472021": {}
+      },
       "function": {
         "install": {
           "deploymentBucketName": "amplify-amplify8db9e93f8a4e4-staging-162724-deployment",
           "s3Key": "amplify-builds/install-4b323965534946647374-build.zip"
         }
-      },
-      "api": {
-        "Installtion": {}
-      },
-      "auth": {
-        "test1e1472021": {}
       }
     }
   }
